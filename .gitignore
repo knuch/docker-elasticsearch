@@ -1,0 +1,10 @@
+
+### Symfony ###
+# Cache and logs (Symfony2)
+/sample-symfony/var/cache/*
+/sample-symfony/var/log/*
+!/sample-symfony/var/cache/.gitkeep
+!/sample-symfony/var/log/.gitkeep
+/sample-symfony/vendor/*
+!/sample-symfony/vendor/.gitkeep
+!/sample-symfony/.env
